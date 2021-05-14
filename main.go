@@ -9,4 +9,7 @@ func main() {
 
 	fmt.Println("Hey hello hi")
 	fmt.Println("Hey amruta")
+
+	fmt.Println("Hey hello hi")
+	fmt.Println("Hey amruta")
 }
