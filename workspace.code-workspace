@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "Pokemon_API",
+			"path": "../Pokemon_API"
+		},
+		{
+			"name": "Practice",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
