@@ -8,4 +8,6 @@ func main() {
 	fmt.Println(10)
 
 	fmt.Println("Trying the new merge")
+	fmt.Println("Trying the new merge")
+	fmt.Println("Trying the new merge")
 }
